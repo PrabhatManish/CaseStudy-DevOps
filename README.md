@@ -3,8 +3,8 @@
 
 =============================
 
-Hi Everyone,
+Hi Shark,
 
-this is for first case study in module 3.
+this repository  is for case study in different git Module.
 
 =============================
